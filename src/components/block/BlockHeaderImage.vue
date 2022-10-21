@@ -14,7 +14,7 @@
       </div>
     </div>
     <button
-      class="bg-coral text-white px-8 uppercase py-5 tracking-widest mx-auto -mb-12"
+      class="bg-coral text-white px-8 uppercase py-5 tracking-widest mx-auto -mb-12 text-xs"
     >
       Book Today
     </button>
