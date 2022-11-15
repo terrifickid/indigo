@@ -1,5 +1,5 @@
 <template>
-  <nav class="bg-white text-black fixed w-screen shadow">
+  <nav class="bg-white text-black fixed w-screen shadow z-50">
     <div class="container-fluid mx-auto">
       <div class="grid grid-cols-12 min-w-full items-center py-5 px-8 xl:px-16">
         <div class="hidden lg:block lg:col-span-5">
