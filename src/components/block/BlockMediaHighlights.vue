@@ -13,9 +13,9 @@
         </div>
       </div>
     </div>
-    <div class="container mx-auto">
-      <div class="grid grid-cols-12 md:gap-4">
-        <div class="col-span-4">
+    <div class="container mx-auto px-4">
+      <div class="grid grid-cols-12 sm:gap-4">
+        <div class="col-span-12 sm:col-span-4 mb-12">
           <div class="w-full aspect-video bg-white border mb-8"></div>
           <p class="text-xs text-coral tracking-widest mb-2">APRIL 11, 2021</p>
           <p class="text-coral font-semibold tracking-widest mb-2">
@@ -26,7 +26,7 @@
             time off
           </p>
         </div>
-        <div class="col-span-4">
+        <div class="col-span-12 sm:col-span-4 mb-12">
           <div class="w-full aspect-video bg-white border mb-8"></div>
           <p class="text-xs text-coral tracking-widest mb-2">APRIL 11, 2021</p>
           <p class="text-coral font-semibold tracking-widest mb-2">
@@ -37,7 +37,7 @@
             time off
           </p>
         </div>
-        <div class="col-span-4">
+        <div class="col-span-12 sm:col-span-4 mb-12">
           <div class="w-full aspect-video bg-white border mb-8"></div>
           <p class="text-xs text-coral tracking-widest mb-2">APRIL 11, 2021</p>
           <p class="text-coral font-semibold tracking-widest mb-2">

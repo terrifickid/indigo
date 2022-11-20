@@ -33,7 +33,16 @@
       </div>
     </div>
     <BlockLogos />
+
     <BlockTextCols />
+    <div class="py-24">
+      <BlockOurServices />
+    </div>
+    <div class="bg-silver py-24">
+      <BlockOurTeam />
+    </div>
+    <BlockMediaHighlights />
+    <BlockTestimonials />
     <BlockCtaText />
   </div>
 </template>
@@ -43,8 +52,20 @@
 import BlockLogos from "@/components/block/BlockLogos";
 import BlockTextCols from "@/components/block/BlockTextCols";
 import BlockCtaText from "@/components/block/BlockCtaText";
+import BlockOurServices from "@/components/block/BlockOurServices";
+import BlockOurTeam from "@/components/block/BlockOurTeam";
+import BlockMediaHighlights from "@/components/block/BlockMediaHighlights";
+import BlockTestimonials from "@/components/block/BlockTestimonials";
 export default {
   name: "HomeView",
-  components: { BlockLogos, BlockTextCols, BlockCtaText },
+  components: {
+    BlockLogos,
+    BlockTextCols,
+    BlockCtaText,
+    BlockOurServices,
+    BlockOurTeam,
+    BlockMediaHighlights,
+    BlockTestimonials,
+  },
 };
 </script>

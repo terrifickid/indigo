@@ -1,6 +1,6 @@
 <template>
   <AppHeader />
-  <div class="pt-20">
+  <div class="pt-20 font-jost">
     <router-view />
   </div>
   <AppFooter />
